@@ -1,0 +1,4 @@
+Total Nodes = 1
+Total Edges = 1
+Average Distance = 0
+Diameter = 0

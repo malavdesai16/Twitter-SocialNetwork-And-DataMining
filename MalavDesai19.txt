@@ -1,0 +1,4 @@
+Total Nodes = 102
+Total Edges = 106
+Average Distance = 4.560279557367501
+Diameter = 6
